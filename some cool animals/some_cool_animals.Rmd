@@ -58,7 +58,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### The Child
 
-![Photo:](img/grogu.jpg)
+![Photo:Mando](img/grogu.jpg)
 
 ##### The Child fun facts:
 
